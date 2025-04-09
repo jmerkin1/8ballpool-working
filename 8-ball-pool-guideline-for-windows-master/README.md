@@ -2,7 +2,7 @@
 
 This program was developed in Visual Studio 2013.
 
-### Download
+to work the program press space bar to enable  grab and move mouse and hit xbutton1 to update reference ball
 
 [Download the latest release](https://github.com/elissonsilva85/8-ball-pool-guideline-for-windows/releases/)
 
